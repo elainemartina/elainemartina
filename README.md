@@ -15,7 +15,7 @@ Angular, TypeScript, HTML, CSS, JavaScript, Bootstrap, .NET, ASP.NET Core & Web 
 </div>
 
 ### Você também me encontra em:
-<a href="https://www.linkedin.com/in/elaine-martina-andr%C3%A9/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/elaine-martina-andr%C3%A9/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:elainemartina.a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
