@@ -2,7 +2,7 @@
 
 * 👩🏻‍💻 Cursando Sistemas de Informação
 * 💻 Aluna +Devs2Blu - FullStack C# e Angular 
-* 💌 Apaixonada por tecnologia, em especial produtos digitais (Product Owner)
+* ❤️ Apaixonada por tecnologia, em especial produtos digitais (Product Owner)
 
 ### Tecnologias:
 Angular, TypeScript, HTML, CSS, JavaScript, Bootstrap, .NET, ASP.NET Core & Web API, C#, Java, Cobol e SQL Server.
