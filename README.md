@@ -1,7 +1,7 @@
 ### Olá!!! 👋 Eu sou a Elaine
 
 * 👩🏻‍💻 Cursando Sistemas de Informação
-* 💻 Aluna +Devs2Blu - FullStack C# e Angular 
+* 💻 +Devs2Blu - FullStack C# e Angular 
 * ❤️ Apaixonada por tecnologia, em especial produtos digitais (Product Owner)
 
 ### Tecnologias:
